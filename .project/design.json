@@ -1,0 +1,14 @@
+{
+  "Tags": [],
+  "SeparateRuntimeDependencies": true,
+  "IncludeSources": true,
+  "ConnectorKeys": [
+    "uipath-microsoft-azureformrecognizer",
+    "uipath-microsoft-azureopenai",
+    "uipath-openai-openai",
+    "uipath-openai-openaiv1compliant",
+    "uipath-uipath-airdk",
+    "uipath-ibm-watsonx",
+    "uipath-anthropic-claude"
+  ]
+}
